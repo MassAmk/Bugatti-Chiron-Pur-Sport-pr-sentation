@@ -1,0 +1,32 @@
+h1
+{
+	color: brown;
+}
+
+#texte
+{
+	width: 1000px;
+	margin: auto;
+	color: white;
+	text-shadow:
+	  -1px -1px 0 black,
+	   1px -1px 0 black,
+	  -1px  1px 0 black,
+	   1px  1px 0 black;
+	text-align: center;
+	align-content: center;
+}
+
+body
+{
+	background-image: url("photo-bugatti.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	
+
+ul li
+{
+	list-style-type: none;
+}
